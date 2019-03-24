@@ -1,0 +1,26 @@
+.zagol {
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: center;
+}
+.text {
+    text-align: justify;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+li {
+    display: inline-block;
+}
+.menu {
+    display: inline-block;
+    text-align: center;
+}
+.logo {
+    display: inline-block;
+}
+.footer {
+    text-align: center;
+}
+.copyright {
+    text-align: center;
+}
